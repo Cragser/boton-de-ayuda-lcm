@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ee9f2b5f-daef-4c72-93b6-3f79e7ff0867" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/components/Button/PrimaryButton.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Button/SocialButton.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Contact/ContactCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Contact/EditableContactCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Header/MainHeader.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Header/StackHeader.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Surfaces/BadgeSurfacePrimary.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/TextInput/TextInputFormik.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/TextInput/TextInputFormikPassword.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Typography/CentralTypography.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Typography/HelpText.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Typography/LinkTypography.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Typography/SubTitleTypography.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Typography/TitleTypography.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/form/FormFormik.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navigation/Navigation.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navigation/drawer/AuthDrawer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navigation/drawer/CustomDrawer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navigation/drawer/UserDrawer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navigation/stack/RootStack.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/Auth/LogIn.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/Auth/RecoveryPassword.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/Auth/SignUp.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/TrustedContacts/AddNewTrustedContact.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/TrustedContacts/EditListTrustedContacts.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/User/AskForHelp.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/User/HelpButton.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/User/MyProfile.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/User/RequestForHelp.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/User/ThanksForYourHelp.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/User/TrustedContacts.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/navigation/LinkingConfiguration.ts" beforeDir="false" afterPath="$PROJECT_DIR$/navigation/LinkingConfiguration.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/navigation/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/NotFoundScreen.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/TabOneScreen.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/TabTwoScreen.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/types.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/types.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2DsID6kBOylPDqiuUPAhgazoQtj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/SergioReyes/WebstormProjects/help/components/Contact&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\SergioReyes\\WebstormProjects\\help\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SergioReyes\WebstormProjects\help\components\Contact" />
+      <recent name="C:\Users\SergioReyes\WebstormProjects\help\components\Typography" />
+      <recent name="C:\Users\SergioReyes\WebstormProjects\help\components\Button" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SergioReyes\WebstormProjects\help\view\Auth" />
+      <recent name="C:\Users\SergioReyes\WebstormProjects\help\navigation\stack" />
+      <recent name="C:\Users\SergioReyes\WebstormProjects\help\navigation\drawer" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee9f2b5f-daef-4c72-93b6-3f79e7ff0867" name="Changes" comment="" />
+      <created>1661481250536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661481250536</updated>
+      <workItem from="1661481254477" duration="1901000" />
+      <workItem from="1661484803501" duration="19574000" />
+      <workItem from="1661528943345" duration="1519000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
