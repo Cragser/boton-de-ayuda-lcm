@@ -24,7 +24,7 @@ const LogIn = ({navigation}: LogInProps) => {
     });
 
     const onSubmit = async (values: FormikValues) => {
-
+        console.log(values)
     }
 
 

@@ -4,49 +4,57 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee9f2b5f-daef-4c72-93b6-3f79e7ff0867" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/components/Button/PrimaryButton.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Button/SocialButton.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Contact/ContactCard.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Contact/EditableContactCard.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Header/MainHeader.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Header/StackHeader.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Surfaces/BadgeSurfacePrimary.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/TextInput/TextInputFormik.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/TextInput/TextInputFormikPassword.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Typography/CentralTypography.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Typography/HelpText.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Typography/LinkTypography.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Typography/SubTitleTypography.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Typography/TitleTypography.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/form/FormFormik.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/navigation/Navigation.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/navigation/drawer/AuthDrawer.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/navigation/drawer/CustomDrawer.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/navigation/drawer/UserDrawer.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/navigation/stack/RootStack.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view/Auth/LogIn.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view/Auth/RecoveryPassword.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view/Auth/SignUp.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view/TrustedContacts/AddNewTrustedContact.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view/TrustedContacts/EditListTrustedContacts.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view/User/AskForHelp.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view/User/HelpButton.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view/User/MyProfile.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view/User/RequestForHelp.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view/User/ThanksForYourHelp.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view/User/TrustedContacts.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/navigation/LinkingConfiguration.ts" beforeDir="false" afterPath="$PROJECT_DIR$/navigation/LinkingConfiguration.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/navigation/index.tsx" beforeDir="false" />
+    <list default="true" id="ee9f2b5f-daef-4c72-93b6-3f79e7ff0867" name="Changes" comment="0.0.1 Ejempo de APP">
+      <change afterPath="$PROJECT_DIR$/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/BUCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/build_defs.bzl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/debug.keystore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/debug/java/com/sergio/quiminet/help/ReactNativeFlipper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/java/com/sergio/quiminet/help/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/java/com/sergio/quiminet/help/MainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/java/com/sergio/quiminet/help/newarchitecture/MainApplicationReactNativeHost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/java/com/sergio/quiminet/help/newarchitecture/components/MainComponentsRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/java/com/sergio/quiminet/help/newarchitecture/modules/MainApplicationTurboModuleManagerDelegate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/jni/Android.mk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/jni/MainApplicationModuleProvider.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/jni/MainApplicationModuleProvider.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/jni/MainApplicationTurboModuleManagerDelegate.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/jni/MainApplicationTurboModuleManagerDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/jni/MainComponentsRegistry.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/jni/MainComponentsRegistry.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/jni/OnLoad.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable/rn_edit_text_material.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable/splashscreen.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable/splashscreen_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metro.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screens/NotFoundScreen.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screens/TabOneScreen.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screens/TabTwoScreen.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/types.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/types.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/Auth/LogIn.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/view/Auth/LogIn.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,6 +116,10 @@
       <workItem from="1661481254477" duration="1901000" />
       <workItem from="1661484803501" duration="19574000" />
       <workItem from="1661528943345" duration="1519000" />
+      <workItem from="1661805224287" duration="620000" />
+      <workItem from="1661876490144" duration="460000" />
+      <workItem from="1663519301264" duration="2849000" />
+      <workItem from="1665457161162" duration="1076000" />
     </task>
     <servers />
   </component>
@@ -124,5 +136,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="0.0.1 Ejempo de APP" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.0.1 Ejempo de APP" />
   </component>
 </project>
